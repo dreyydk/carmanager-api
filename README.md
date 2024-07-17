@@ -1,6 +1,6 @@
 <h1 align="center">CarManager API</h1>
 
-An API capable of creating and communicating with a database containing information about cars and their brands. It can be very useful for developers aiming to create an application that involves this niche, such as a dealership website.
+An Rest API capable of creating and communicating with a database containing information about cars and their brands. It can be very useful for developers aiming to create an application that involves this niche, such as a dealership website.
 
 ## Features
 
